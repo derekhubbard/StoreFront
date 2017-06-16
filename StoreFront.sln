@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory", "Inventory\Inventory.csproj", "{49340BDC-FFED-45F9-9FC2-7C34A9677582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Tests", "Inventory.Tests\Inventory.Tests.csproj", "{E6BD7021-F11A-436F-B039-D58B98AF1283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49340BDC-FFED-45F9-9FC2-7C34A9677582}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{49340BDC-FFED-45F9-9FC2-7C34A9677582}.Debug|x86.Build.0 = Debug|Any CPU
+		{49340BDC-FFED-45F9-9FC2-7C34A9677582}.Release|x86.ActiveCfg = Release|Any CPU
+		{49340BDC-FFED-45F9-9FC2-7C34A9677582}.Release|x86.Build.0 = Release|Any CPU
+		{E6BD7021-F11A-436F-B039-D58B98AF1283}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E6BD7021-F11A-436F-B039-D58B98AF1283}.Debug|x86.Build.0 = Debug|Any CPU
+		{E6BD7021-F11A-436F-B039-D58B98AF1283}.Release|x86.ActiveCfg = Release|Any CPU
+		{E6BD7021-F11A-436F-B039-D58B98AF1283}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
